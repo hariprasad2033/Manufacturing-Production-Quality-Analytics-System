@@ -1,0 +1,6 @@
+factoryId,factoryName,location,factoryType,operationalStatus
+F101,Chennai Plant,Chennai,Automobile,OPEN
+F102,Bangalore Plant,Bangalore,Electronics,OPEN
+F103,Hyderabad Plant,Hyderabad,Steel,OPEN
+F104,Mumbai Plant,Mumbai,Textile,CLOSED
+F105,Pune Plant,Pune,Automobile,CLOSED

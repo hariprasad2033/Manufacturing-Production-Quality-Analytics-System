@@ -1,0 +1,9 @@
+productionLineId,factoryId,lineName,lineStatus,supervisorName
+L101,F101,Engine Line,ACTIVE,Ravi
+L102,F101,Assembly Line,CLOSED,Kumar
+L103,F101,Testing Line,ACTIVE,Arun
+L201,F102,Packaging Line,ACTIVE,Suresh
+L202,F102,PCB Line,ACTIVE,Manoj
+L301,F103,Steel Melt Line,ACTIVE,Raj
+L401,F104,Fabric Line,ACTIVE,Deepak
+L501,F105,Auto Parts Line,CLOSED,Vikram
